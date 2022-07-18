@@ -20,6 +20,8 @@
 [Metadata such as images related purely to the github organization](https://github.com/Warthunder-Open-Source-Foundation/meta)  
 [Github base repo for the org.](https://github.com/Warthunder-Open-Source-Foundation/.github)  
 
+Bus factor: 1
+
 <hr>
 
 #### THIS IS NOT AN OFFICIAL ITEM OR PRODUCT BY WAR THUNDER OR GAIJIN ENTERTAINMENT
