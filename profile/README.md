@@ -11,10 +11,12 @@
 [The largest portion of data collected from game files](https://github.com/Warthunder-Open-Source-Foundation/wt_datamine_extractor)  
 [Ballistics simulation according to in-game parameters](https://github.com/Warthunder-Open-Source-Foundation/wt_ballistics_calc)  
 [Dedicated CSV localization parsing](https://github.com/Warthunder-Open-Source-Foundation/wt_csv)  
+[blk output file parsing](https://github.com/Warthunder-Open-Source-Foundation/wt_blk)
+[Sensor data parsing such as radars](https://github.com/Warthunder-Open-Source-Foundation/wt_sensor)
 
 #### WIP or undecided
 [Crosshair creation and parsing](https://github.com/Warthunder-Open-Source-Foundation/wt_crosshair)  
-[A native app to deliver news outside of discord](https://github.com/Warthunder-Open-Source-Foundation/wt_desktop_news)  
+[A native tray app to deliver news outside of discord](https://github.com/Warthunder-Open-Source-Foundation/wt_desktop_news)  
 
 #### Misc
 [Metadata such as images related purely to the github organization](https://github.com/Warthunder-Open-Source-Foundation/meta)  
