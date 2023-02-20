@@ -1,4 +1,4 @@
-## A collection of free and open tools designed for the game War Thunder.
+## A collection of free, open-source tools designed for the game War Thunder.
 
 ### Contents
 
