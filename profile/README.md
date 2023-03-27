@@ -3,6 +3,7 @@
 ### Contents
 
 #### Front-end / User-oriented
+[Portable executable for datamining](https://github.com/Warthunder-Open-Source-Foundation/wt_ext_cli)
 [Vast amounts of information and visualization online](https://github.com/Warthunder-Open-Source-Foundation/wt_data_sheets_wasm) which can be found [here](https://wt.flareflo.dev)  
 [Up-to-date news from all official news outlets for discord](https://github.com/Warthunder-Open-Source-Foundation/wt_event_handler) which you can join [here](https://discord.com/invite/pWM7y2Uy)  
 [Automated tooling to rename and modify localization ingame](https://github.com/Warthunder-Open-Source-Foundation/wt_custom_lang) which can be downloaded [here](https://github.com/Warthunder-Open-Source-Foundation/wt_custom_lang/releases)  
