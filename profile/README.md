@@ -23,7 +23,7 @@
 [Metadata such as images related purely to the github organization](https://github.com/Warthunder-Open-Source-Foundation/meta)  
 [Github base repo for the org.](https://github.com/Warthunder-Open-Source-Foundation/.github)  
 
-Bus factor: 1
+{Bus factor: 1](https://en.wikipedia.org/wiki/Bus_factor)
 
 <hr>
 
