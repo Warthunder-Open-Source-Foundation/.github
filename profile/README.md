@@ -1,6 +1,6 @@
 ## A collection of free, open-source tools designed for the game War Thunder.
 
-# (Service status page)[https://uk.lkl.lol/status/wtosf]
+# [Service status page](https://uk.lkl.lol/status/wtosf)
 
 ### Contents
 
