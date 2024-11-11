@@ -1,6 +1,8 @@
 ## A collection of free, open-source tools designed for the game War Thunder.
 
 # [Service status page](https://uk.lkl.lol/status/wtosf)
+### WT_DM_API ![](https://uk.lkl.lol/api/badge/1/status?style=flat-square)
+### Website ![](https://uk.lkl.lol/api/badge/2/status?style=flat-square)
 
 ### Contents
 
