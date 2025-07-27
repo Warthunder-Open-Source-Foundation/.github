@@ -28,6 +28,7 @@
 [Github base repo for the org.](https://github.com/Warthunder-Open-Source-Foundation/.github)  
 
 [Bus factor: 1](https://en.wikipedia.org/wiki/Bus_factor)
+[Codeberg mirror[codeberg.org/Warthunder-Open-Source-Foundation]
 
 <hr>
 
