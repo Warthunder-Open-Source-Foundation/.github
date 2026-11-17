@@ -14,10 +14,6 @@
 [Dedicated CSV localization parsing](https://github.com/Warthunder-Open-Source-Foundation/wt_csv)  
 [Binary format parsing such as VROMFS or BLK](https://github.com/Warthunder-Open-Source-Foundation/wt_blk)  
 
-#### WIP or undecided
-[Crosshair creation and parsing](https://github.com/Warthunder-Open-Source-Foundation/wt_crosshair)  
-[A native tray app to deliver news outside of discord](https://github.com/Warthunder-Open-Source-Foundation/wt_desktop_news)  
-
 #### Misc
 [Metadata such as images related purely to the github organization](https://github.com/Warthunder-Open-Source-Foundation/meta)  
 [Github base repo for the org.](https://github.com/Warthunder-Open-Source-Foundation/.github)  
